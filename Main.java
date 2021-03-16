@@ -13,7 +13,7 @@ public class Main {
          */
 
         //Input Array of dictionary file name
-        String[] inputs = { "crackhuman.txt","digits.txt", "digits2.txt", "kirilicni_original.txt", "rockyou.txt","darkc0de.lst"};//Input Array of dictionary file name
+        String[] inputs = { "crackhuman.txt","digits.txt", "digits2.txt", "kirilicni_original.txt", "rockyou.txt","darkc0de.lst"};
 
         String line = "";
         BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
